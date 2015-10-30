@@ -1,0 +1,1 @@
+{"*":{"exception-reporting":{"userId":"502a0f14-08a6-1f7a-e4cd-66be589630b8"},"welcome":{"showOnStartup":false},"core":{"themes":["atom-dark-ui","solarized-light-syntax"]},"editor":{"invisibles":{},"fontSize":11},"advanced-open-file":{"createFileInstantly":true},"autocomplete-plus":{"useCoreMovementCommands":false},"tree-view":{"hideVcsIgnoredFiles":true}}}

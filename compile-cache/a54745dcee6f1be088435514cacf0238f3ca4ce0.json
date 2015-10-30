@@ -1,0 +1,1 @@
+{".platform-darwin atom-text-editor:not([mini])":{"cmd-shift-e":"easy-motion-redux:start"},".platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])":{"ctrl-shift-e":"easy-motion-redux:start"}}

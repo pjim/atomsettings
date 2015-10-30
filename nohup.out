@@ -1,0 +1,25 @@
+[4051:1030/082657:ERROR:browser_main_loop.cc(173)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+[4081:1030/082658:ERROR:sandbox_linux.cc(340)] InitializeSandbox() called with multiple threads in process gpu-process
+[4051:1030/082659:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4051:1030/082659:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4051:1030/082659:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+[4051:1030/082659:WARNING:accelerator_util.cc(185)] Invalid accelerator token: command
+App load time: 1163ms
+[4089:1030/082659:INFO:renderer_main.cc(200)] Renderer process started
+[4051:1030/082703:INFO:CONSOLE(133)] "Loading Emmet extensions from", source: /home/pjim/.atom/packages/emmet/lib/emmet.coffee (133)
+[4051:1030/082703:INFO:CONSOLE(150)] "Emmet: no such extension folder:", source: /home/pjim/.atom/packages/emmet/lib/emmet.coffee (150)
+[4051:1030/082704:INFO:CONSOLE(46)] "Window load time: 4704ms", source: file:///usr/share/atom/resources/app.asar/static/index.js (46)
+[4051:1030/082709:INFO:CONSOLE(60)] "checking latest backup...", source: /home/pjim/.atom/packages/sync-settings/lib/sync-settings.coffee (60)
+[4051:1030/082709:INFO:CONSOLE(299)] "Creating GitHubApi client with token = 2a68cbdc8eb6e96b4a99d1ef46df1577d34fbd35", source: /home/pjim/.atom/packages/sync-settings/lib/sync-settings.coffee (299)
+[4051:1030/082709:INFO:CONSOLE(71)] "tracking Activate", source: /home/pjim/.atom/packages/sync-settings/lib/tracker.coffee (71)
+[4081:1030/082709:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:D0786C8E02120000]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[4051:1030/082710:INFO:CONSOLE(66)] "[object Object]", source: /home/pjim/.atom/packages/sync-settings/lib/sync-settings.coffee (66)
+[4051:1030/082710:INFO:CONSOLE(68)] "error while retrieving the gist. does it exists?", source: /home/pjim/.atom/packages/sync-settings/lib/sync-settings.coffee (68)
+[4051:1030/082836:INFO:CONSOLE(299)] "Creating GitHubApi client with token = 3fcf1c70148e239b2d9b44b4b4fc5ae5b29f9440", source: /home/pjim/.atom/packages/sync-settings/lib/sync-settings.coffee (299)
+[4051:1030/082836:INFO:CONSOLE(71)] "tracking Backup", source: /home/pjim/.atom/packages/sync-settings/lib/tracker.coffee (71)
+Created new window in existing browser session.
+Created new window in existing browser session.
+[4051:1030/082948:INFO:CONSOLE(299)] "Creating GitHubApi client with token = 3fcf1c70148e239b2d9b44b4b4fc5ae5b29f9440", source: /home/pjim/.atom/packages/sync-settings/lib/sync-settings.coffee (299)
+[4051:1030/082948:INFO:CONSOLE(71)] "tracking Backup", source: /home/pjim/.atom/packages/sync-settings/lib/tracker.coffee (71)
+Created new window in existing browser session.
+Created new window in existing browser session.
